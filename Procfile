@@ -1,1 +1,1 @@
-"web: gunicorn youtube_clipper.wsgi --log-file -" 
+web: gunicorn youtube_clipper.wsgi --log-file -
